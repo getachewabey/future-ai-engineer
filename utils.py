@@ -19,7 +19,7 @@ def init_gemini(api_key=None):
         return True
     return False
 
-def get_gemini_response(prompt, system_instruction=None, model_name="gemini-2.0-flash-exp"):
+def get_gemini_response(prompt, system_instruction=None, model_name="gemini-2.5-flash"):
     """
     Get a response from Gemini using the new SDK.
     """
