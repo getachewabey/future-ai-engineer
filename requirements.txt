@@ -1,0 +1,14 @@
+streamlit
+google-genai
+python-dotenv
+pandas
+numpy
+scikit-learn
+torch
+matplotlib
+plotly
+faiss-cpu
+ruff
+black
+mypy
+pytest
